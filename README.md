@@ -9,6 +9,10 @@ Previousely I obtained a M.S. degree in Electrical and Computer Engineering from
 ## Publications (* denotes equal contribution)
 Trevor Seets*, <ins>Wei Lin*</ins>, Yizhou Lu, Christie Lin, Adam Uselmann, Andreas Velten, "OFDVDnet: A Sensor Fusion Approach for Video Denoising in Fluorescence-Guided Surgery", Medical Imaging with Deep Learning, 2023. [[Paper](https://openreview.net/pdf?id=TcUtCXRcK8)][[Code](https://github.com/WillianJrLin/OFDVDnet)]
 
+Kayvan Samimi, Danielle E. Desa, <ins>Wei Lin</ins>, Kurt Weiss, Joe Li, Jan Huisken, Veronika Miskolci, Anna Huttenlocher, Jenu V. Chacko, Andreas Velten, Jeremy D. Rogers, Kevin W. Eliceiri, Melissa C. Skala, "Light-sheet autofluorescence lifetime imaging with a single-photon avalanche diode array", J. Biomed. Opt. 28(6), 066502 (2023) [[Paper](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-28/issue-6/066502/Light-sheet-autofluorescence-lifetime-imaging-with-a-single-photon-avalanche/10.1117/1.JBO.28.6.066502.full?SSO=1)]
+
+
+
 <!--
 **WillianJrLin/WillianJrLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
