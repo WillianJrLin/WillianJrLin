@@ -2,7 +2,7 @@
 
 ![](banner.png)
 
-Hello, I'm a 3rd year PhD student in Electrical and Computer Engineering at UW-Madison adviced by Prof. Andreas Velten. My research lies in the intersection of optics and computational photography. By co-desingning imaging systems hardware and image processing software, I try to push the limits of what cameras can see. For example, capturing very weak autofluorescence signals from biological tissues to aid desease diagnostics and surgical procesures. Currenty my works revolves around Single Photon Avalanch Diode (SPAD) array cameras. 
+Hello, I'm a 3rd year PhD student in Electrical and Computer Engineering at UW-Madison adviced by Prof. Andreas Velten. My research lies in the intersection of optics and computational photography. By co-desingning imaging systems hardware and image processing software, I try to push the limits of what cameras can see. For example, capturing very weak autofluorescence signals from biological tissues to aid desease diagnostics and surgical procedures. Currenty my works revolves around Single Photon Avalanch Diode (SPAD) array cameras :camera:. 
 
 <!--
 **WillianJrLin/WillianJrLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
