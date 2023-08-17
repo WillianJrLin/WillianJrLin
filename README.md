@@ -1,4 +1,4 @@
-## Hi, I'm Wei :wave: :smiley:
+# Hi, I'm Wei :wave: :smiley:
 
 ![](banner.png)
 
