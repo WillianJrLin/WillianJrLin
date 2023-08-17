@@ -1,6 +1,6 @@
 ### Hi, I'm Wei :wave: :smiley:
 
-![](banner.png)
+![](banner2.png)
 
 <!--
 **WillianJrLin/WillianJrLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
