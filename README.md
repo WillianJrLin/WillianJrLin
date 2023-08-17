@@ -1,6 +1,6 @@
 ### Hi, I'm Wei :wave: :smiley:
 
-![](banner2.png)
+![](banner.png)
 
 Hello, I'm a 3rd year PhD student in Electrical and Computer Engineering at UW-Madison adviced by Prof. Andreas Velten. 
 
