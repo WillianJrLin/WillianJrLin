@@ -2,7 +2,7 @@
 
 I'm a 3rd year PhD student in Electrical and Computer Engineering at UW-Madison adviced by [Prof. Andreas Velten](https://biostat.wisc.edu/~compoptics/). My research lies within the intersection of optics and computational photography. By co-desingning imaging systems hardware and image processing software, I try to push the limits of what cameras can see. For example, capturing very weak autofluorescence signals from biological tissues to aid desease diagnostics and surgical procedures. Currenty my works revolves around Single Photon Avalanch Diode (SPAD) array cameras :camera:. 
 
-Previousely I obtained a M.S. degree in Electrical and Computer Engineering from UW-Madison while affiliated with the [Wisconsin Nano Device Engineering Laboratory (WISNED)](https://www.wisned.com/), where I worked on nanomembrane grafting for fabricating semiconductor heterostructures. I also hold a M.S. degree in Computer Sciences from UW-Madison. Before coming to Madison, I completed my B.S. degree in Physics with distinction from the University of Alberta in Canada :maple_leaf:. 
+Previousely, I obtained a M.S. degree in Electrical and Computer Engineering from UW-Madison while affiliated with the [Wisconsin Nano Device Engineering Laboratory (WISNED)](https://www.wisned.com/), where I worked on nanomembrane grafting for fabricating semiconductor heterostructures. I also hold a M.S. degree in Computer Sciences from UW-Madison. Before coming to Madison, I completed my B.S. degree in Physics with distinction from the University of Alberta in Canada :maple_leaf:. 
 
 ><sub>Link to my [resume](https://drive.google.com/file/d/1F0pMcus57P32NSyvMOey3JN6lV5akDUA/view?usp=drive_link)</sub>
 
