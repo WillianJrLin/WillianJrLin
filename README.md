@@ -1,4 +1,4 @@
-### Hi, I'm Wei :smiley:
+### Hi, I'm Wei :wave: :smiley:
 
 
 <!--
