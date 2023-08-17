@@ -2,6 +2,8 @@
 
 ![](banner2.png)
 
+Hello, I'm a 3rd year PhD student in Electrical and Computer Engineering at UW-Madison adviced by Prof. Andreas Velten. 
+
 <!--
 **WillianJrLin/WillianJrLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
