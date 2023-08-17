@@ -4,6 +4,8 @@ I'm a 3rd year PhD student in Electrical and Computer Engineering at UW-Madison 
 
 Previousely I obtained a M.S. degree in Electrical and Computer Engineering from UW-Madison while affiliated with the [Wisconsin Nano Device Engineering Laboratory (WISNED)](https://www.wisned.com/), where I worked on nano-membrane transfer printing for fabricating semiconductor heterostructures. I also hold a M.S. degree in Computer Sciences from UW-Madison. Before coming to Madison, I completed my B.S. degree in Physics with distinction from the University of Alberta in Canada :maple_leaf:. 
 
+><sub>Link to my [resume](https://drive.google.com/file/d/1F0pMcus57P32NSyvMOey3JN6lV5akDUA/view?usp=drive_link)</sub>
+
 ![](banner.png)
 
 ## Selected Publications
