@@ -21,7 +21,7 @@ Trevor Seets*, <ins>Wei Lin*</ins>, Yizhou Lu, Christie Lin, Adam Uselmann, Andr
 ## Teaching
 Coursese taught at UW-Madison as teaching assistant:
 
-ECE 219: Analytical Methods for Electromagnetic Engineering!
+ECE 219: Analytical Methods for Electromagnetic Engineering
 
 ECE 230: Circuit Analysis
 
