@@ -4,6 +4,8 @@
 
 I'm a 3rd year PhD student in Electrical and Computer Engineering at UW-Madison adviced by Prof. Andreas Velten. My research lies in the intersection of optics and computational photography. By co-desingning imaging systems hardware and image processing software, I try to push the limits of what cameras can see. For example, capturing very weak autofluorescence signals from biological tissues to aid desease diagnostics and surgical procedures. Currenty my works revolves around Single Photon Avalanch Diode (SPAD) array cameras :camera:. 
 
+Previousely I obtained a M.S. degree in Electrical and Computer Engineering from UW-Madison working on semiconductor nano-membrane transfer printing for fabricating semiconductor heterostructures. I also hold a M.S. degree in Computer Sciences from UW-Madison. Before comming to Madison, I completed my B.S. degree in Physics with distinction from the University of Alberta in Canada :maple_leaf:. 
+
 ## Publications (* denotes equal contribution)
 Trevor Seets*, <ins>Wei Lin*</ins>, Yizhou Lu, Christie Lin, Adam Uselmann, Andreas Velten, "OFDVDnet: A Sensor Fusion Approach for Video Denoising in Fluorescence-Guided Surgery", Medical Imaging with Deep Learning, 2023. [[Paper](https://openreview.net/pdf?id=TcUtCXRcK8)][[Code](https://github.com/WillianJrLin/OFDVDnet)]
 
