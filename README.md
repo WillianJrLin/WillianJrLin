@@ -26,7 +26,7 @@ H. Wang S.I. Vagin, S. Lane, <ins><strong>Wei Lin</strong></ins>, V. Shyta, W.R.
 
 ><sub>* denotes equal contribution</sub>
 
-Trevor Seets*, <ins>Wei Lin*</ins>, Yizhou Lu, Christie Lin, Adam Uselmann, Andreas Velten, "OFDVDnet: A Sensor Fusion Approach for Video Denoising in Fluorescence-Guided Surgery", [International Conference on Computational Photography (ICCP) 2023 Poster](https://iccp2023.iccp-conference.org/conference-program/) (Best Poster Award nomination: 10 out of 73 posters). 
+Trevor Seets*, <ins>Wei Lin*</ins>, Yizhou Lu, Christie Lin, Adam Uselmann, Andreas Velten, "OFDVDnet: A Sensor Fusion Approach for Video Denoising in Fluorescence-Guided Surgery", [IEEE International Conference on Computational Photography (ICCP) 2023 Poster](https://iccp2023.iccp-conference.org/conference-program/) (Best Poster Award nomination: 10 out of 73 posters). 
 
 <!--
 **WillianJrLin/WillianJrLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
