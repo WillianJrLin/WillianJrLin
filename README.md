@@ -6,7 +6,7 @@ Previously, I obtained a M.S. degree in Electrical and Computer Engineering from
 
 
 
-><sub>Link to my most up-to-date [resume](https://drive.google.com/file/d/1b9UzXGKKCroBm00nehLK_2ZcQWh5wLsj/view?usp=sharing)</sub>
+><sub>Link to my [resume](https://drive.google.com/file/d/1b9UzXGKKCroBm00nehLK_2ZcQWh5wLsj/view?usp=sharing)</sub>
 
 ![](banner.png)
 
