@@ -10,6 +10,13 @@ Previously, I obtained a M.S. degree in Electrical and Computer Engineering from
 
 ![](banner.png)
 
+## Work Experience
+
+**Research Intern, Dolby Laboratories**
+May 2024 - Aug 2024
+* Worked with Dr. Anustup Choudhury and Dr. Guan-Ming Su in the Advanced Technology Group (ATG)
+* Developed a novel deep learning algorithm for sensor fusion based Video Frame Interpolation (VFI) that leverages the high frame rate, low quality video frames from a SPAD camera as the auxiliary input.
+
 ## Selected Publications
 
 ><sub>* denotes equal contribution</sub>
